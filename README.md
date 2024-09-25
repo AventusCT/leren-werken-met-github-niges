@@ -2,4 +2,4 @@
 
 # Project naam : Leren werken met git
 
-## Beschrijving : Hallo
+## Beschrijving : Hallo Boeieeie!
