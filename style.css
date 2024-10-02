@@ -29,4 +29,10 @@ th, td {
     text-align: left;
 }
 
+a {
+    color: #1a8b4f;
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
